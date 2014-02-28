@@ -6,3 +6,4 @@ mod 3
 bug fixe
 debut codage new fonctionnalite
 termine ma fonctionnalite
+U1 bosse aussi!
